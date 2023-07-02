@@ -1,0 +1,1 @@
+web : node app.js // line to host and the name of the file be procfile not profile.txt
